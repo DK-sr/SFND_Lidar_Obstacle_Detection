@@ -22,10 +22,13 @@ A few updates to the instructions above were needed.
 
 ## How To Build
 
-```mkdir build && cd build
-cmake ..
-make
-./environment```
+`mkdir build && cd build`
+
+`cmake ..`
+
+`make`
+
+`./environment`
 
 
 
