@@ -7,7 +7,15 @@
 
 ## Installation
 
-### Linux Ubuntu 16
+### Linux Ubuntu 18.04
+
+Intstall PCL 1.9.1
+
+Use script `Ubuntu_18.04_PCL_1.9.1_install.sh`.
+
+I checked this in my local computer with this project and it worked very well.
+
+### Linux Ubuntu 16.04
 
 Install PCL, C++
 
