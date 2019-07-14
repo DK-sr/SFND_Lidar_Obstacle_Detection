@@ -1,4 +1,4 @@
-# Clone latest PCL
+# Clone latest PCL(Current is 1.9.1)
 sudo apt-get update
 sudo apt-get install -y git
 
@@ -16,7 +16,6 @@ sudo apt-get install -y libflann1.9 libflann-dev
 sudo apt-get install -y libeigen3-dev
 sudo apt-get install -y libboost-all-dev
 sudo apt-get install -y libvtk6-dev libvtk6.3 libvtk6.3-qt
-#sudo apt-get install libvtk5.10-qt4 libvtk5.10 libvtk5-dev  # I'm not sure if this is necessary.
 sudo apt-get install -y 'libqhull*'
 sudo apt-get install -y libusb-dev
 sudo apt-get install -y libgtest-dev
